@@ -1,2 +1,8 @@
 
-*.b#1
+*.b#*
+*.s#*
+*.zip
+*.rar
+*.gerberset
+outputs/*
+gerber/*
